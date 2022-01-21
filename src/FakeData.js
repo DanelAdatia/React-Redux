@@ -1,42 +1,42 @@
 export const UsersData = [
   {
     id: 1,
-    name: "Leanne Graham",
-    username: "Bret",
+    name: "Danel Adatia",
+    username: "Danel",
   },
   {
     id: 2,
-    name: "Ervin Howell",
-    username: "Antonette",
+    name: "Selena Gomez",
+    username: "Selena",
   },
   {
     id: 3,
-    name: "Clementine Bauch",
-    username: "clementine",
+    name: "Miley Cyrus",
+    username: "Miley",
   },
   {
     id: 4,
-    name: "Patricia Lebsack",
-    username: "Karianne",
+    name: "Justin Bieber",
+    username: "Justin",
   },
   {
     id: 5,
-    name: "Chelsey Dietrich",
-    username: "Kamren",
+    name: "Katy Perry",
+    username: "Ketty",
   },
   {
     id: 6,
-    name: "Jake Runolfsdottir V",
-    username: "Leopoldo_Corkery",
+    name: "Chris Brown",
+    username: "Chris",
   },
   {
     id: 7,
-    name: "Mrs. Dennis Schulist",
-    username: "Karley_Dach",
+    name: "Ariana Grande",
+    username: "Ariana",
   },
   {
     id: 8,
-    name: "Kurtis Weissnat",
-    username: "Elwyn.Skiles",
+    name: "Ed Sheeran",
+    username: "Ed",
   },
 ];
